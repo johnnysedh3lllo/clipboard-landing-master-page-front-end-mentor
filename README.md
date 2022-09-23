@@ -42,7 +42,7 @@ Users should be able to:
 i learnt how to how to structure HTML, as well as ways to write much more usable code.
 
 ### Continued development
-in other projects i will focus more on building more websites with responsive layouts.
+in other projects i will focus more on building more websites with responsive layouts. as well as using the BEM naming convention.
 
 ### Author
 - GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
